@@ -28,4 +28,3 @@ Event handling examples: <br/>
 <br />
 </p>
 
-</p>
